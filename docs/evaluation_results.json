@@ -1,0 +1,158 @@
+{
+  "cases": [
+    {
+      "case": 1,
+      "message": "I need a smartphone under 20,000 EGP with a great camera",
+      "winner": "Redmi Note 14 Pro 5G",
+      "checks": {
+        "has_three_products": true,
+        "winner_in_budget": true,
+        "category_match": true,
+        "brand_match": true,
+        "prices_match_catalog": true,
+        "priority_aligned": true
+      },
+      "passed": true,
+      "response_time": 0.0267
+    },
+    {
+      "case": 2,
+      "message": "Samsung phone under 30000 for gaming",
+      "winner": "Samsung Galaxy S24 FE",
+      "checks": {
+        "has_three_products": true,
+        "winner_in_budget": true,
+        "category_match": true,
+        "brand_match": true,
+        "prices_match_catalog": true,
+        "priority_aligned": true
+      },
+      "passed": true,
+      "response_time": 0.0154
+    },
+    {
+      "case": 3,
+      "message": "best laptop for programming under 50000",
+      "winner": "ASUS Vivobook 15",
+      "checks": {
+        "has_three_products": true,
+        "winner_in_budget": true,
+        "category_match": true,
+        "brand_match": true,
+        "prices_match_catalog": true,
+        "priority_aligned": true
+      },
+      "passed": true,
+      "response_time": 0.0202
+    },
+    {
+      "case": 4,
+      "message": "gaming laptop under 45000",
+      "winner": "Acer Nitro V 15",
+      "checks": {
+        "has_three_products": true,
+        "winner_in_budget": true,
+        "category_match": true,
+        "brand_match": true,
+        "prices_match_catalog": true,
+        "priority_aligned": true
+      },
+      "passed": true,
+      "response_time": 0.0155
+    },
+    {
+      "case": 5,
+      "message": "noise cancelling headphones under 5000 EGP",
+      "winner": "Xiaomi Redmi Buds 6 Pro",
+      "checks": {
+        "has_three_products": true,
+        "winner_in_budget": true,
+        "category_match": true,
+        "brand_match": true,
+        "prices_match_catalog": true,
+        "priority_aligned": true
+      },
+      "passed": true,
+      "response_time": 0.0213
+    },
+    {
+      "case": 6,
+      "message": "Xiaomi phone under 18000 with a big battery",
+      "winner": "Redmi Note 14",
+      "checks": {
+        "has_three_products": true,
+        "winner_in_budget": true,
+        "category_match": true,
+        "brand_match": true,
+        "prices_match_catalog": true,
+        "priority_aligned": true
+      },
+      "passed": true,
+      "response_time": 0.0153
+    },
+    {
+      "case": 7,
+      "message": "lightweight laptop under 30000 for university",
+      "winner": "Lenovo IdeaPad Slim 3 15",
+      "checks": {
+        "has_three_products": true,
+        "winner_in_budget": true,
+        "category_match": true,
+        "brand_match": true,
+        "prices_match_catalog": true,
+        "priority_aligned": true
+      },
+      "passed": true,
+      "response_time": 0.0138
+    },
+    {
+      "case": 8,
+      "message": "Sony or JBL headphones under 6000 with good sound",
+      "winner": "JBL Tune 770NC",
+      "checks": {
+        "has_three_products": true,
+        "winner_in_budget": true,
+        "category_match": true,
+        "brand_match": true,
+        "prices_match_catalog": true,
+        "priority_aligned": true
+      },
+      "passed": true,
+      "response_time": 0.0129
+    },
+    {
+      "case": 9,
+      "message": "عاوز موبايل للتصوير في حدود 25 ألف جنيه",
+      "winner": "Xiaomi 14T",
+      "checks": {
+        "has_three_products": true,
+        "winner_in_budget": true,
+        "category_match": true,
+        "brand_match": true,
+        "prices_match_catalog": true,
+        "priority_aligned": true
+      },
+      "passed": true,
+      "response_time": 0.0131
+    },
+    {
+      "case": 10,
+      "message": "phone under 10000",
+      "winner": "Redmi Note 14",
+      "checks": {
+        "has_three_products": true,
+        "winner_in_budget": true,
+        "category_match": true,
+        "brand_match": true,
+        "prices_match_catalog": true
+      },
+      "passed": true,
+      "response_time": 0.0128
+    }
+  ],
+  "best_value_accuracy": "10/10",
+  "avg_uncached_ms": 34.24,
+  "avg_cached_ms": 17.97,
+  "cache_hit_rate_pct": 80.0,
+  "cache_backend": "redis"
+}
